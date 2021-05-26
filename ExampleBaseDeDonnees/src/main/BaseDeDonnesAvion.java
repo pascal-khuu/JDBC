@@ -50,7 +50,7 @@ public class BaseDeDonnesAvion {
 		stm.setInt(1,300);
 		stm.setInt(2,10);
 
-		// exécution de la requête
+		// exécution de la requête modification
 		stm.executeUpdate();
 
 		 
